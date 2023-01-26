@@ -67,12 +67,12 @@ header{
     width: 100%;
     max-width: 88px;
     height:88px;
-    background: url(../images/main_left.png)no-repeat;
+    background: url(../images/cont3_left.png)no-repeat;
     border: none;
     text-indent: -9999px;
     position: absolute;
     left:30px;
-    top: 50%;
+    top: 54%;
     margin-top: -40px;
     z-index: 9998;
     cursor: pointer;
@@ -80,12 +80,12 @@ header{
 .main_image .slick-next{
     width: 88px;
     height:88px;
-    background: url(../images/main_right.png)no-repeat;
+    background: url(../images/cont3_right.png)no-repeat;
     border: none;
     text-indent: -9999px;
     position: absolute;
-    right: 30px;
-    top: 50%;
+    right: -30px;
+    top: 54%;
     margin-top: -40px;
     z-index: 9998;
     cursor: pointer;
